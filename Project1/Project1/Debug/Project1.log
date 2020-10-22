@@ -1,3 +1,4 @@
 ﻿  Source.cpp
-C:\Users\anhlt\source\repos\OSS2\Project1\Project1\Source.cpp(21,10): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\anhlt\source\repos\OSS2\Project1\Project1\Source.cpp(25,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\anhlt\source\repos\OSS2\Project1\Project1\Source.cpp(33,10): warning C4129: 'T': unrecognized character escape sequence
   Project1.vcxproj -> C:\Users\anhlt\source\repos\OSS2\Project1\Debug\Project1.exe
